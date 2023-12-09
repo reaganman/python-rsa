@@ -1,4 +1,4 @@
-# python RSA
+# python-rsa
 
 This Python script implements the RSA encryption and decryption protocol. It allows you to generate RSA key pairs and encrypt/decrypt files using the generated keys.
 
