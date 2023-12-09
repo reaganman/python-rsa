@@ -2,6 +2,8 @@
 
 This Python script implements the RSA encryption and decryption protocol. It allows you to generate RSA key pairs and encrypt/decrypt files using the generated keys.
 
+Author: Reagan McKee
+
 ## Contents
 
 - [RSA Encryption Script](#rsa-encryption-script)
